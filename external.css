@@ -1,0 +1,14 @@
+form-label{
+    display: inline-block;
+    width:100px; ;
+   }
+   form div {
+    margin-bottom: 10px;
+   }
+   .error {
+    color:rgb(230, 20, 20);
+    margin-left: 5px;
+   }
+   label.error {
+    display: inline;
+   }
